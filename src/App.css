@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-image: url("http://www.marhba.com/images/experiences/voiliers_2016.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myPic {
+  display: block;
+  margin-top: 9px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.name {
+  color: red;
+  text-align: center;
+}
+.tebPic {
+  display: block;
+  margin-top: 9px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
